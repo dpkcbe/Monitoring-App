@@ -3,7 +3,7 @@
 Please find the output in the Word document below
 https://1drv.ms/w/s!AuPL5xhnx_FlgTAYLZ1Uy4PIm8zl?e=jM2M27
 
-**Things I learnt**/n
+**Things I learnt**
 
 1.Python and How to create Monitoring Application in Python using Flask and psutil
 2.How to run a Python App locally.
